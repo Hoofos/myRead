@@ -24,6 +24,14 @@ Este repositório contém os arquitvos referentes ao projeto My Reads.
 ./package.json
 ./README.md
 
+3. Download / Install Node Modules
+=> Através da linha de comando, navegue até o diretório do projeto e digite o comando "npm install". Isso irá criar o diretório ./node_modules.
+
+4. Rodando a aplicação no modo de desenvolvimento:
+=> Através da linha de comando, navegue até o diretório do projeto e digite o comando "npm start". Isso irá iniciar a aplicação em seu navegador padrão utilizando a porta 3000 (//localhost:3000).
+
+5. Deployment
+=> Através da linha de comando, navegue até o diretório do projeto e digite o comando "npm run build". Isso irá criar uma versão de produção no diretório ./build.
 
 
 
